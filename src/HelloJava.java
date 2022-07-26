@@ -1,6 +1,7 @@
 public class HelloJava {
     public static void main(String[] args) {
 
-        //secont class
+        //second class
+        // mac user and windows are best users
     }
 }

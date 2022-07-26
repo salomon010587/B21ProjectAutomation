@@ -3,5 +3,7 @@ public class HelloJava {
 
         //second class
         // mac user and windows are best users
+        // third note added
+       // its time to push
     }
 }
